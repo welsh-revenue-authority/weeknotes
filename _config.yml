@@ -1,0 +1,5 @@
+baseurl: "/weeknotes" # the subpath of your site, e.g. /blog
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
