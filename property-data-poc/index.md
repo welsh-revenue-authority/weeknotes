@@ -1,0 +1,4 @@
+## Land and Property Data proof of concept
+
+* [📝 Weeknotes #1 - land and property data proof of concept
+](2022-01-26)
