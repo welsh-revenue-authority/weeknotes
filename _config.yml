@@ -1,5 +1,11 @@
-baseurl: "/weeknotes" # the subpath of your site, e.g. /blog
-markdown: kramdown
-theme: minima
+title: Weeknotes
 plugins:
-  - jekyll-feed
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: false
+  include:
+    - index.md
+    - property-data-poc/*.md
+  exclude:
+    - README.md
