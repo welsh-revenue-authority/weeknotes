@@ -1,5 +1,6 @@
 ## Land and Property Data proof of concept
 
+* [📝 Weeknotes #7 - land and property data proof of concept](2022-03-07.md)
 * [📝 Weeknotes #6 - land and property data proof of concept](2022-02-28.md)
 * [📝 Weeknotes #5 - land and property data proof of concept](2022-02-21.md)
 * [📝 Weeknotes #4 - land and property data proof of concept](2022-02-14.md)
