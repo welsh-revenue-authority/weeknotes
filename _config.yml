@@ -9,5 +9,3 @@ relative_links:
   #   - property-data-poc/*.md
   # exclude:
   #   - README.md
-
-theme: jekyll-theme-minimal
