@@ -4,8 +4,8 @@ plugins:
 relative_links:
   enabled: true
   collections: false
-  include:
-    - index.md
-    - property-data-poc/*.md
-  exclude:
-    - README.md
+  # include:
+  #   - index.md
+  #   - property-data-poc/*.md
+  # exclude:
+  #   - README.md
