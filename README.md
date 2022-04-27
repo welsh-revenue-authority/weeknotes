@@ -1,5 +1,7 @@
 # Weeknotes
 
+This is a simple setup for publishing weeknotes on Github Pages
+
 ## Adding a new project
 
 To add a new project, create a folder that contains a ```_posts``` directory and an ```index.md``` file. 
